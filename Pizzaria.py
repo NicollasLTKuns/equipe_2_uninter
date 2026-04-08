@@ -118,3 +118,7 @@ print(f"Frete (R$5 por km): R${frete:.2f}")
 print(f"Total a pagar (itens + frete): R${total_com_frete:.2f}") #.2f quer dizer que vai mostrar 2 casas decimais
 
 input("Pressione ENTER para sair...")  # pausa o programa
+
+
+#Comentando apenas para deixar registrado que consegui clonar o github.
+# Segundo commit para ver se vai dar certo mesmo, e para deixar registrado que consegui fazer o commit.
