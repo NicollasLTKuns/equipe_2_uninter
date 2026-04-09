@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    color: #fff;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #3d3d3d;
+}
+h1{
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.Tab{
+    width: 75px;
+    height: 75px;
+    background-color: #3d3d3d;
+    border: 3px solid black;
+    margin: 2.5px;
+    cursor: pointer;
+}
+button{
+    font-size: 35px;
+}
+#Jogo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
